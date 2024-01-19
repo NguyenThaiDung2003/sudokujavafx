@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sudokuguilib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sudokuguilib_jar</output-path>
+    <root id="archive" name="Sudokuguilib.jar">
+      <element id="module-output" name="Sudokuguilib" />
+    </root>
+  </artifact>
+</component>

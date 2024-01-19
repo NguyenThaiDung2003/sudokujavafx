@@ -1,0 +1,46 @@
+Username: ok, Time: 00:00:04, Difficulty: Normal, Not Solved
+Username: ok, Time: 00:00:04, Difficulty: Normal, Not Solved
+Username: ok, Time: 00:00:04, Difficulty: Normal, Not Solved
+Username: ok, Time: 00:00:02, Difficulty: Expert, Not Solved
+Username: ok, Time: 00:00:03, Difficulty: Expert, Not Solved
+Username: ok, Time: 00:00:01, Difficulty: Easy, Not Solved
+Username: ok, Time: 00:00:11, Difficulty: Expert, Used Solver
+Username: dung, Time: 00:00:10, Difficulty: Normal, Not Solved
+Username: dung, Time: 00:00:50, Difficulty: Expert, Used Solver
+Username: dung, Time: 00:00:55, Difficulty: Expert, Solved
+Username: Username, Time: 01:39:56, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:00:12, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:18, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:12:03, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:29:44, Difficulty: Expert, Used Solver
+Username: Username, Time: 00:03:11, Difficulty: Hard, Used Solver
+Username: Username, Time: 00:00:05, Difficulty: Expert, Used Solver
+Username: Username, Time: 00:00:17, Difficulty: Expert, Solved
+Username: Username, Time: 00:00:17, Difficulty: Expert, Solved
+Username: Username, Time: 00:00:02, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Easy, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:18:00, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:04, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:03:45, Difficulty: Easy, Solved
+Username: Username, Time: 00:03:45, Difficulty: Easy, Solved
+Username: Username, Time: 02:18:22, Difficulty: Normal, Used Solver
+Username: Username, Time: 02:19:29, Difficulty: Normal, Solved
+Username: Username, Time: 02:19:29, Difficulty: Normal, Solved
+Username: Username, Time: 00:00:06, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:22, Difficulty: Easy, Used Solver
+Username: Username, Time: 00:00:09, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:05:00, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:00:10, Difficulty: Easy, Used Solver
+Username: Username, Time: 00:00:13, Difficulty: Easy, Solved
+Username: Username, Time: 01:06:52, Difficulty: Normal, Used Solver
+Username: Username, Time: 00:00:03, Difficulty: Easy, Not Solved
+Username: Username, Time: 00:00:01, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:18:00, Difficulty: Normal, Not Solved
+Username: dung, Time: 00:01:11, Difficulty: Normal, Not Solved
+Username: dung, Time: 00:00:09, Difficulty: Easy, Used Solver
+Username: dung, Time: 00:00:13, Difficulty: Easy, Solved
