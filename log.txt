@@ -47,3 +47,8 @@ Username: dung, Time: 00:00:13, Difficulty: Easy, Solved
 Username: Username, Time: 00:00:05, Difficulty: Normal, Not Solved
 Username: Username, Time: 00:00:02, Difficulty: Expert, Not Solved
 Username: Username, Time: 00:00:01, Difficulty: Expert, Not Solved
+Username: Username, Time: 00:00:10, Difficulty: Normal, Not Solved
+Username: Username, Time: 00:00:33, Difficulty: Easy, Not Solved
+Username: Username, Time: 00:04:58, Difficulty: Easy, Solved
+Username: Username, Time: 00:00:03, Difficulty: Easy, Used Solver
+Username: Username, Time: 00:00:10, Difficulty: Easy, Solved
